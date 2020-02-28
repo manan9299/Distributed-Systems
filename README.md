@@ -1,7 +1,9 @@
 # Distributed-Systems
-Exploring various Distributed System Algorithms
+Exploring various Distributed System Algorithms and implementing them
 
 
-| Paper        | Topic           |
-| ------------- |:-------------:| -----:|
+### Papers
+
+| Paper | Topic |
+| ------------- |-------------|-----|
 | Lamport Clocks | [Time, Clocks and Parial Ordering of Events in Distributed Systems](https://lamport.azurewebsites.net/pubs/time-clocks.pdf) - Leslie Lamport |
